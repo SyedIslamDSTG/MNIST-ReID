@@ -8,6 +8,7 @@ We consider images containing two handwritten digits, one red and one green, def
 By desgin, this dataset has 100 IDs, 15 of which are specific to the test set and are used for queries. The training data has 45,441 observations split between "rg", "red" and "green" types. The test data has 3,431 query images of type "rg" corresponding to 15 IDs and a further 3,000 images (a gallery-set of size 30 per ID) of all 100 IDs for just “red” and “green” types. 
 
 References
+
 [1] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient-Based Learning Applied to Document Recognition,” Expert Systems With Applications, November, 1998.
 
 Cite this dataset as
